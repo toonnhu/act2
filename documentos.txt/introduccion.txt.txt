@@ -7,3 +7,4 @@ Git es un sistema de control de versiones que permite registrar los cambios real
 GitHub es una plataforma que permite alojar repositorios en internet y consultar los archivos y el historial de cambios.
 
 Durante esta actividad se utilizaran comandos como git add, git commit y git push para gestionar las modificaciones realizadas.
+
