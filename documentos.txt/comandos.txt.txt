@@ -13,3 +13,4 @@ git commit: guarda un registro de los cambios preparados.
 git push: envia los commits al repositorio remoto.
 
 git log: muestra el historial de commits realizados.
+
