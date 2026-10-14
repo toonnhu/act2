@@ -1,0 +1,7 @@
+CONCLUSIONES
+
+Git permite mantener un historial organizado de las modificaciones realizadas en los archivos de un proyecto.
+
+Los commits facilitan la identificacion de los cambios registrados, mientras que sus mensajes permiten comprender que trabajo se realizo.
+
+GitHub permite almacenar el repositorio de forma remota y comprobar que los archivos y las modificaciones se hayan publicado correctamente.

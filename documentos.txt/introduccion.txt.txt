@@ -1,0 +1,9 @@
+ACTIVIDAD 2: CONFIGURACION DE HERRAMIENTAS
+
+Esta actividad tiene como objetivo aprender a utilizar Git y GitHub para administrar versiones de archivos de texto.
+
+Git es un sistema de control de versiones que permite registrar los cambios realizados en los documentos de un proyecto.
+
+GitHub es una plataforma que permite alojar repositorios en internet y consultar los archivos y el historial de cambios.
+
+Durante esta actividad se utilizaran comandos como git add, git commit y git push para gestionar las modificaciones realizadas.

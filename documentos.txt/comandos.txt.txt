@@ -1,0 +1,15 @@
+COMANDOS BASICOS DE GIT
+
+git --version: permite consultar la version instalada de Git.
+
+git clone: permite clonar un repositorio remoto en el computador.
+
+git status: muestra el estado de los archivos del repositorio.
+
+git add: prepara los archivos modificados para registrarlos.
+
+git commit: guarda un registro de los cambios preparados.
+
+git push: envia los commits al repositorio remoto.
+
+git log: muestra el historial de commits realizados.

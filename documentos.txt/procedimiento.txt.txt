@@ -1,0 +1,21 @@
+PROCEDIMIENTO DE LA ACTIVIDAD
+
+Crear una cuenta en GitHub.
+
+Instalar Git en el computador.
+
+Crear un repositorio llamado act2.
+
+Clonar el repositorio en el computador.
+
+Crear archivos de texto con extension .txt.
+
+Modificar los documentos y revisar su estado.
+
+Preparar los cambios utilizando git add.
+
+Registrar los cambios mediante git commit.
+
+Enviar las modificaciones a GitHub con git push.
+
+Documentar el proceso en el archivo README.md.
